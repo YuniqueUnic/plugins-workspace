@@ -246,3 +246,6 @@ impl Builder {
             .build()
     }
 }
+
+#[cfg(test)]
+mod tests;
